@@ -3,7 +3,7 @@
 - ⚙️ I’m currently working on a classroom finder tool.  
   
 
-- 🌱 I’m currently learning Data Scraping & React.JS.  
+- 🌱 I’m currently learning React.JS and Ruby.  
   
 
 - ❓ Feel free to ask me about anything Python related!  
